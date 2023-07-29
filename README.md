@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Alireza Ghorbani<br>👀 I’m junior ai developer<br>
+👋 Hi, I’m Alireza Ghorbani<br>👀 I’m Junior AI Programmer<br>
 
 
 ## 🌐 Socials:
