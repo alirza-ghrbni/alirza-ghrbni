@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Alireza Ghorbani<br>👀 I’m interested in being a ai developer<br>🌱 I’m currently learning PYTHON
+👋 Hi, I’m Alireza Ghorbani<br>👀 I’m interested in being a ai developer<br>
 
 
 ## 🌐 Socials:
