@@ -14,10 +14,6 @@ graduate research direction.
 - Cloud computing, distributed systems, and IoT
 - Fuzzy logic and reinforcement learning
 
-## 📄 Publications
-- *Integrating Powerful Technologies of IoT and AI for the Smart City Scenario*
-- *Chronological Order Detection of Crossed Pen and Stamp Ink Lines Using Deep Learning* (manuscript in preparation)
-
 ## 🌐 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alirza-ghrbni)
 
